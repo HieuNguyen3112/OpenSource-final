@@ -57,6 +57,7 @@ Tất cả các thông tin đăng nhập được cung cấp trong thư mục:
 [01 LOGIN DETAILS & PROJECT INFO.txt]
 ```
 🔍 Hãy kiểm tra và sử dụng chúng để truy cập vào hệ thống.
+
 💡 Ghi chú: Nếu gặp vấn đề trong quá trình cài đặt, vui lòng kiểm tra lại cấu hình môi trường và đảm bảo rằng bạn đã cài đặt PHP, Composer, và MySQL.
 
 
